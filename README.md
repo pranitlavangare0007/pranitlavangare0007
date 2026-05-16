@@ -151,8 +151,8 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 | Degree | Institution | Score | Year |
 |---|---|---|---|
 | B.Sc. Computer Science | Sadguru Gadage Maharaj College, Karad | **CGPA 8.96** | 2023–2026 |
-| 12th Science (HSC) | Jawahar Navodaya Vidyalaya, Satara | — | 2023 |
-| 10th (SSC) | Jawahar Navodaya Vidyalaya, Satara | — | 2021 |
+| 12th Science (HSC) | Jawahar Navodaya Vidyalaya, Satara | **79.60%** | 2023 |
+| 10th (SSC) | Jawahar Navodaya Vidyalaya, Satara | **81%** | 2021 |
 
 ---
 
