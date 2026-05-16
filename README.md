@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranit--lavangare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranit-lavangare-5a49a1373)
 [![Gmail](https://img.shields.io/badge/Gmail-pranitlavangare0007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitlavangare0007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pranitlavangare0007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranitlavangare0007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-74+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/pranitlavangare0007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-74+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_pranit_0710/)
 
 </div>
 
