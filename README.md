@@ -162,7 +162,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 
 | Platform | Problems Solved | Breakdown |
 |---|---|---|
-| **LeetCode** | **100+** | 31 Easy · 37 Medium · 6 Hard |
+| **LeetCode** | **100+** | 66 Easy · 62 Medium · 10 Hard |
 
 **Topics:** Arrays · Linked Lists · Trees · Graphs · Dynamic Programming · HashMap · Binary Search · Stack & Queue
 
