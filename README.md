@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranit--lavangare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranit-lavangare-5a49a1373)
 [![Gmail](https://img.shields.io/badge/Gmail-pranitlavangare0007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitlavangare0007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pranitlavangare0007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranitlavangare0007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_pranit_0710/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-150+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_pranit_0710/)
 
 </div>
 
@@ -85,7 +85,6 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
@@ -162,7 +161,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 
 | Platform | Problems Solved | Breakdown |
 |---|---|---|
-| **LeetCode** | **100+** | 66 Easy · 62 Medium · 10 Hard |
+| **LeetCode** | **150+** | 78 Easy · 74 Medium · 11 Hard |
 
 **Topics:** Arrays · Linked Lists · Trees · Graphs · Dynamic Programming · HashMap · Binary Search · Stack & Queue
 
