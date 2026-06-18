@@ -171,7 +171,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 
 ## 📈 Currently Working On
 
-- 🔧 Advancing **DSA in Java** — targeting 150+ LeetCode problems
+- 🔧 Advancing **DSA in Java** — targeting 200+ LeetCode problems
 - 🧪 Adding **JUnit + Mockito** unit tests to PayPulse backend
 - 📄 Adding **Swagger/OpenAPI** documentation to REST APIs
 - 🐳 Learning **GitHub Actions** for CI/CD pipeline automation
