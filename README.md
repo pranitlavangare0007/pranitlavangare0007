@@ -101,23 +101,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
       </p>
       <p>High-concurrency social media backend simulating AI bot interactions with real-time virality scoring. Engineered Redis atomic INCR operations to enforce a 100-bot-per-post cap — validated 0 race conditions across 200 concurrent Postman Runner requests. Redis TTL-based cooldown system + CRON-scheduled batched notification engine reducing notification noise by ~80%.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🐾 Pawcedure — Veterinary Operations Platform</h3>
-      <div align="center">
-        <a href="https://github.com/pranitlavangare0007/pawcedure" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/>
-      </p>
-      <p>Full-stack veterinary operations management platform with appointment scheduling, patient records, and medical history tracking. Features MUI v5 dashboard, Cloudinary image uploads, GitHub Actions CI/CD, and free-tier deployment stack on Render + Vercel + Neon.</p>
-    </td>
+   
   </tr>
 </table>
 
