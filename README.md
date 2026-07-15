@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranit--lavangare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranit-lavangare-5a49a1373)
 [![Gmail](https://img.shields.io/badge/Gmail-pranitlavangare0007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitlavangare0007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pranitlavangare0007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranitlavangare0007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-150+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_pranit_0710/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_pranit_0710/)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 I am a Java Full Stack Developer and final-year B.Sc. Computer Science student from Satara, Maharashtra (CGPA 8.96), building production-grade backend systems and full-stack web applications.
 
-My work spans high-concurrency backend engineering, secure REST API design, and modern frontend development — all backed by real projects with live deployments on Render and Netlify. I recently engineered a Redis-powered social media backend that handles 200+ concurrent requests with zero race conditions using atomic operations, and a full-stack digital banking platform with JWT authentication, UPI/IMPS transfers, and MPIN verification.
+My work spans high-concurrency backend engineering, real-time distributed systems, secure REST API design, and modern frontend development — all backed by real projects with live deployments. I recently built DevCollab, a real-time collaborative code review platform with Spring WebSocket, Redis Pub/Sub, and GitHub OAuth integration. I also engineered a Redis-powered social media backend handling 200+ concurrent requests with zero race conditions using atomic operations, and a full-stack digital banking platform with JWT auth, UPI/IMPS transfers, and MPIN verification.
 
 I am currently deepening my skills in DSA with Java, microservices architecture, and cloud deployment — transitioning from building features to shipping reliable, scalable systems.
 
@@ -31,6 +31,32 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 
 <table>
   <tr>
+    <td width="50%">
+      <h3 align="center">🔍 DevCollab — Real-Time Code Review Platform</h3>
+      <div align="center">
+        <a href="https://github.com/pranitlavangare0007/devcollab" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://devcollab.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_OAuth-181717?style=flat&logo=github&logoColor=white"/>
+      </p>
+      <p>
+        Real-time collaborative code review platform where multiple developers join a shared room via a 6-character code and leave line-level annotations that appear on all screens instantly — like Google Docs, but for code review.
+        <br/><br/>
+        Built Spring ChannelInterceptor for WebSocket JWT auth (JWTs don't survive HTTP→WS upgrade), wired STOMP broker to Redis Pub/Sub for multi-instance broadcast scaling, and implemented stateless GitHub OAuth to import any PR — open, closed, or merged — directly into a review room.
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center">🏦 PayPulse — Digital Banking Platform</h3>
       <div align="center">
@@ -56,6 +82,8 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
       </p>
       <p>Secure full-stack digital banking platform with JWT stateless authentication, BCrypt password encryption, UPI/IMPS-style fund transfers with MPIN verification, multi-account management, role-based access control (USER/ADMIN), and complete transaction history. Backend deployed on Render, frontend live on Netlify.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">⚡ Social Engine — Redis-Powered Backend</h3>
       <div align="center">
@@ -72,6 +100,23 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat"/>
       </p>
       <p>High-concurrency social media backend simulating AI bot interactions with real-time virality scoring. Engineered Redis atomic INCR operations to enforce a 100-bot-per-post cap — validated 0 race conditions across 200 concurrent Postman Runner requests. Redis TTL-based cooldown system + CRON-scheduled batched notification engine reducing notification noise by ~80%.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐾 Pawcedure — Veterinary Operations Platform</h3>
+      <div align="center">
+        <a href="https://github.com/pranitlavangare0007/pawcedure" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white"/>
+      </p>
+      <p>Full-stack veterinary operations management platform with appointment scheduling, patient records, and medical history tracking. Features MUI v5 dashboard, Cloudinary image uploads, GitHub Actions CI/CD, and free-tier deployment stack on Render + Vercel + Neon.</p>
     </td>
   </tr>
 </table>
@@ -90,6 +135,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring WebSocket](https://img.shields.io/badge/Spring_WebSocket-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge)
@@ -97,6 +143,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 
 ### Frontend
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
@@ -109,6 +156,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 ### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -161,9 +209,7 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 
 | Platform | Problems Solved | Breakdown |
 |---|---|---|
-| **LeetCode** | **150+** | 78 Easy · 74 Medium · 11 Hard |
-
-**Topics:** Arrays · Linked Lists · Trees · Graphs · Dynamic Programming · HashMap · Binary Search · Stack & Queue
+| **LeetCode** | **200+** | Arrays · Trees · Graphs · DP · HashMap · Binary Search · Stack & Queue |
 
 </div>
 
@@ -171,11 +217,12 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 
 ## 📈 Currently Working On
 
-- 🔧 Advancing **DSA in Java** — targeting 200+ LeetCode problems
-- 🧪 Adding **JUnit + Mockito** unit tests to PayPulse backend
+- 🔧 Advancing **DSA in Java** — targeting 250+ LeetCode problems
+- 🧪 Adding **JUnit + Mockito** unit tests to PayPulse and DevCollab backends
 - 📄 Adding **Swagger/OpenAPI** documentation to REST APIs
 - 🐳 Learning **GitHub Actions** for CI/CD pipeline automation
 - ☁️ Exploring **AWS basics** — S3, EC2, and cloud deployment
+- 🤖 Exploring **Spring AI + Gemini** integration for AI-powered features
 
 ---
 
@@ -193,4 +240,3 @@ I am currently deepening my skills in DSA with Java, microservices architecture,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:1a4a8a&height=100&section=footer" width="100%"/>
 
 </div>
-
